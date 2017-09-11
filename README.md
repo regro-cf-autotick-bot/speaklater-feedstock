@@ -14,9 +14,7 @@ Summary: Implements a lazy string for python useful for use with gettext
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/speaklater-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/speaklater-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/speaklater-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/speaklater-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/speaklater-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/speaklater-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/speaklater-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/speaklater-feedstock)
 
 Current release info
 ====================
